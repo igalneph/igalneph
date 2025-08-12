@@ -15,7 +15,7 @@ I began my journey by building applications for iOS and later expanded my skills
 
 ### 🎓 Academic Projects
 - 🖼 **Image Processing**  
-  - [Moving Panorama Video](PLACE_URL_HERE) *(Image Processing Ex4)* ⭐ **Featured Project**
+  - [Moving Panorama Video](https://github.com/igalneph/moving-panorama-video/tree/main) *(Image Processing Ex4)* ⭐ **Featured Project**
  
 - 🎮 **Object-Oriented Programming**  
   - [Bricker](PLACE_URL_HERE) *(OOP Ex2)*  
