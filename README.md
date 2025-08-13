@@ -17,10 +17,8 @@ I began my journey by building applications for iOS and later expanded my skills
 - 🖼 **Image Processing**  
   - [Moving Panorama Video](https://github.com/igalneph/moving-panorama-video/tree/main) ⭐ **Featured Project**
 
-- 🤖 **Advanced Course in Machine Learning**  
+- 🤖 **Machine Learning**  
   - [Self-Supervised & Unsupervised Learning (VICReg, Anomaly Detection)](PLACE_URL_HERE)
-
-- 🧠 **Neural Learning**  
   - [Backpropagation](PLACE_URL_HERE) 
 
 ---
