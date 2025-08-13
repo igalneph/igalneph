@@ -10,30 +10,18 @@ I began my journey by building applications for iOS and later expanded my skills
 ## 👨‍💻 Software Development Projects
 
 ### 📱 iOS Applications  
-- 🚀 [EasyToWork App](PLACE_URL_HERE) – *Productivity-focused mobile app.*  **Useful One**
-- 🌌 [NASAGallery App](PLACE_URL_HERE) – *Browse stunning NASA space images by date.* **Beautiful One**
+- 🚀 [EasyToWork App](https://github.com/igalneph/EasyToWork-App) – *Productivity-focused mobile app.*  **Useful One**
+- 🌌 [NASAGallery App](https://github.com/igalneph/NasaGallery-App) – *Browse stunning NASA space images by date.* **Beautiful One**
 
 ### 🎓 Academic Projects
 - 🖼 **Image Processing**  
-  - [Moving Panorama Video](https://github.com/igalneph/moving-panorama-video/tree/main) *(Image Processing Ex4)* ⭐ **Featured Project**
- 
-- 🎮 **Object-Oriented Programming**  
-  - [Bricker](PLACE_URL_HERE) *(OOP Ex2)*  
-  - [Procedural Simulator Extraordinaire](PLACE_URL_HERE) *(OOP Ex4)*  
+  - [Moving Panorama Video](https://github.com/igalneph/moving-panorama-video/tree/main) ⭐ **Featured Project**
 
 - 🤖 **Advanced Course in Machine Learning**  
-  - [Self-Supervised & Unsupervised Learning (VICReg, Anomaly Detection)](PLACE_URL_HERE) *(AML Ex3)*  
-
-- 🔢 **Deep Learning**  
-  - [Classifying and Encoding the MNIST Digit Dataset](PLACE_URL_HERE) *(DL Ex2)*  
+  - [Self-Supervised & Unsupervised Learning (VICReg, Anomaly Detection)](PLACE_URL_HERE)
 
 - 🧠 **Neural Learning**  
-  - [Backpropagation](PLACE_URL_HERE) *(Neural Learning Ex3)*  
-
-- ⚙ **Operating Systems**  
-  - [User-Level Threads](PLACE_URL_HERE) *(OS Ex2)*  
-  - [MapReduce – Multi-threaded Programming](PLACE_URL_HERE) *(OS Ex3)*  
-
+  - [Backpropagation](PLACE_URL_HERE) 
 
 ---
 
