@@ -18,8 +18,8 @@ I began my journey by building applications for iOS and later expanded my skills
   - [Moving Panorama Video](https://github.com/igalneph/moving-panorama-video/tree/main) ⭐ **Featured Project**
 
 - 🤖 **Machine Learning**  
-  - [Self-Supervised & Unsupervised Learning (VICReg, Anomaly Detection)](PLACE_URL_HERE)
-  - [Backpropagation](PLACE_URL_HERE) 
+  - [Flow-Based Generative Modeling](https://github.com/igalneph/flow-models)
+  - [Variational Autoencoder & Supervised Classification on MNIST](https://github.com/igalneph/vae) 
 
 ---
 
